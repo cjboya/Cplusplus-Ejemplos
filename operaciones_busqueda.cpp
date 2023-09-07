@@ -2,6 +2,10 @@
 using namespace std;
 #include <string.h>
 
+
+// Operaciones con arrays: busquedaBinaria, buscaEInsertaOrdenado (insertarSinRepetir), buscaYAgrega (agregarSinRepetir)
+
+
 struct Persona {
 	int dni;
 	char nombre[25 + 1];
